@@ -1,4 +1,4 @@
-# 财经早餐 - 2026-05-07
+# 财经早餐 2026-05-07
 
 > 来源: https://www.red-ring.cn/post/27593-2093525
 
@@ -6,15 +6,19 @@
 
 今天最大的头条还是有关海峡的口水仗，伊朗称要确保安全通行：
 
+![图1](https://raw.githubusercontent.com/frankinvest/frank-invest-blog/main/source/images/caijing_20260507_img_01.jpg)
+
 知情人士又透漏了，美伊接近达成停战谅解备忘录：
+
+![图2](https://raw.githubusercontent.com/frankinvest/frank-invest-blog/main/source/images/caijing_20260507_img_02.jpg)
 
 消息出来后原油价格跳水，金属价格拉升。
 
 后来懂王出面否认，画风又有点变化，原油开始反弹，金属吐回部分涨幅。
 
-不过过了几个小时，懂王表示很有可能达成协议：
+![图3](https://raw.githubusercontent.com/frankinvest/frank-invest-blog/main/source/images/caijing_20260507_img_03.jpg)
 
-不是我精神分裂左右脑互搏，消息确实就是这么个消息。
+不过过了几个小时，懂王表示很有可能达成协议：不是我精神分裂左右脑互搏，消息确实就是这么个消息。
 
 昨天还有个新闻是伊朗外长来咱们这边访问了，紧接着就来这么一出。
 
@@ -24,9 +28,13 @@
 
 西大公布了ADP就业人数：新增10.9万人，比预期9.9万人更强劲一些
 
+![图4](https://raw.githubusercontent.com/frankinvest/frank-invest-blog/main/source/images/caijing_20260507_img_04.jpg)
+
 ————————
 
 酒老二：发布了大股东增持公告
+
+![图5](https://raw.githubusercontent.com/frankinvest/frank-invest-blog/main/source/images/caijing_20260507_img_05.jpg)
 
 这个和之前公布的公司回购不是一回事，主体是上市公司的大股东，而不是上市公司本身。
 
@@ -38,11 +46,15 @@
 
 康宁：计划把美国光链接产能提升十倍
 
+![图6](https://raw.githubusercontent.com/frankinvest/frank-invest-blog/main/source/images/caijing_20260507_img_06.jpg)
+
 同时还发布了和英伟达的一些合作协议，消息出来后在二级市场冲高回落。
 
 ————————
 
 大宗商品：
+
+![图7](https://raw.githubusercontent.com/frankinvest/frank-invest-blog/main/source/images/caijing_20260507_img_07.jpg)
 
 受消息面影响，金银铜铂等有色走强，黄金重返4700关口，白银上涨两个点，锡上涨两个点，铂金上涨三个点。
 
@@ -54,13 +66,21 @@
 
 另外最近有两个农产品涨幅巨大，有二三十个点，一个是香蕉，不是橡胶，是吃的那个香蕉，还有一个是洋葱。
 
+![图8](https://raw.githubusercontent.com/frankinvest/frank-invest-blog/main/source/images/caijing_20260507_img_08.png)
+
 这两都没什么太直接的标的，有一家上市公司拥有大概10万吨级的洋葱产能，看着挺唬人，其实占总营收也就3%左右，影响十分有限。
 
+————————
+
 外围市场：
+
+![图9](https://raw.githubusercontent.com/frankinvest/frank-invest-blog/main/source/images/caijing_20260507_img_09.jpg)
 
 美三大股指走强，纳指领涨。
 
 AMD财报超预期，现在CPU也参与Ai里的算力分配也成为了共识，未来有比较稳定的需求增长预期，英特尔和AMD短短一个月已经翻倍了。
+
+![图10](https://raw.githubusercontent.com/frankinvest/frank-invest-blog/main/source/images/caijing_20260507_img_10.jpg)
 
 除了CPU板块，美股有色板块涨幅也不少。
 
@@ -92,7 +112,7 @@ AMD财报超预期，现在CPU也参与Ai里的算力分配也成为了共识，
 
 我自己是不会追的，主要是怕高处不胜寒，胆子比较小。
 
-我能接受的最大尺度就是配置一些算电协同的打助攻，电已经拿了很久了，所以最后又配置了一些算力。
+我能接受的最大尺度就是配置一些算电协同的打打助攻，电已经拿了很久了，所以最后又配置了一些算力。
 
 这部分也不指望有什么太多的收益，仓位比例放在那里了，涨到天上去也就那样，主要是为了稳心态，体验一下科技牛市的氛围。
 
@@ -103,8 +123,6 @@ AMD财报超预期，现在CPU也参与Ai里的算力分配也成为了共识，
 最后结果虽然是好的，但是依然影响了睡眠质量，好久没犯过这种低级失误了，躺在床上反思了很久。
 
 最后思来想去，将错就错，反正也是迷你仓，不影响什么，就当低成本试错了。
-
-这部分我已经全额计提了，如果恰好买在山顶，就当花钱买了个教训。
 
 所以。。。。如果真的忍不住诱惑，那像我这种小仓位试水也是可行的一个选项。
 
@@ -148,24 +166,8 @@ AMD财报超预期，现在CPU也参与Ai里的算力分配也成为了共识，
 
 一个喜欢保护韭菜的博主，希望大家少少踩坑，多多赚钱！！！
 
----
 
-## 图片列表
+![图11](https://raw.githubusercontent.com/frankinvest/frank-invest-blog/main/source/images/caijing_20260507_img_11.jpg)
 
-1. https://private.red-ring.cn/1778105342XNUY.jpg-bigsize?e=1778713186&token=Lz2VxvvXxFZUQuBqe9GizzLJKCKTJl4br1cjFZzo:stclV4kUvKfk5U3L4sy7Vmr1678=
 
-2. https://private.red-ring.cn/1778105342FGOZ.jpg-bigsize?e=1778713186&token=Lz2VxvvXxFZUQuBqe9GizzLJKCKTJl4br1cjFZzo:LTYrK6R0BhceQ9vv7D3-xdqqCl0=
-
-3. https://private.red-ring.cn/1778105342NYUS.jpg-bigsize?e=1778713186&token=Lz2VxvvXxFZUQuBqe9GizzLJKCKTJl4br1cjFZzo:F6EyG611ElxORcIKzZCFxfBrGuk=
-
-4. https://private.red-ring.cn/1778105343SFCQ.jpg-bigsize?e=1778713186&token=Lz2VxvvXxFZUQuBqe9GizzLJKCKTJl4br1cjFZzo:T08C3FpVtB0h7sKST7PW84c1UaA=
-
-5. https://private.red-ring.cn/1778105342KEIP.jpg-bigsize?e=1778713186&token=Lz2VxvvXxFZUQuBqe9GizzLJKCKTJl4br1cjFZzo:mKC6sTXc6tNqqykNvEFwWwnqD80=
-
-6. https://private.red-ring.cn/1778105342JUAQ.jpg-bigsize?e=1778713186&token=Lz2VxvvXxFZUQuBqe9GizzLJKCKTJl4br1cjFZzo:nFgd0gJf7jJYwLmPx0l-UMleJz8=
-
-7. https://private.red-ring.cn/1778105342YUWR.jpg-bigsize?e=1778713186&token=Lz2VxvvXxFZUQuBqe9GizzLJKCKTJl4br1cjFZzo:16VrwTL5lsQ_klqZGRyXBcJwFw=
-
-8. https://private.red-ring.cn/Qwg0RjJKzvp8_20260507063307.png-bigsize?e=1778713186&token=Lz2VxvvXxFZUQuBqe9GizzLJKCKTJl4br1cjFZzo:h_bDBxCWQqNkfs8VVgHf4ANg2ow=
-
-9. https://private.red-ring.cn/1778105342TDBP.jpg-bigsize?e=1778713186&token=Lz2VxvvXxFZUQuBqe9GizzLJKCKTJl4br1cjFZzo:yvBw_pmVKm6wtYUgKlcHz_l6AfM=
+![图12](https://raw.githubusercontent.com/frankinvest/frank-invest-blog/main/source/images/caijing_20260507_img_12.jpg)
